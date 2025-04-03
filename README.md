@@ -1,4 +1,4 @@
-# ![RFID Logo](assets/RFId-tag.png) Chipless RFID Tag Classification
+# ![RFID Logo](assets/RFID-tag.png) Chipless RFID Tag Classification
 
 **Chipless RFID Tag Classification** is a machine learning-based project aimed at classifying RFID tags without embedded chips. Using neural networks, the model analyzes RFID signal patterns to determine their respective categories.
 
